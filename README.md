@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/valiantboymaksud/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@valiantboymaksud3724" target="__blank">
+  <!-- <a href="https://www.youtube.com/@valiantboymaksud3724" target="__blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-  <a href="https://twitter.com/valiantboymaksud" target="__blank">
+  </a> -->
+  <a href="https://twitter.com/Valiant_Maksud" target="__blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <div>
@@ -35,7 +35,7 @@ Professional Experience:
 4. Manage project timelines, track progress, and communicate updates to stakeholders.
 5. Optimize database queries and improve application performance.
 
-<h2>Top skillsTop skills</h2>
+<h2>Top skills</h2>
 <b>REST APIs</b> • <b>Php</b> • <b>Laravel</b> • <b>Firebase</b> • <b>Databases</b> • <b>JavaScript</b>
 
 ### 💻 Languages and Tools :
@@ -61,7 +61,7 @@ Professional Experience:
   <a href="https://www.instagram.com/valiantboymaksud" target="__blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" title="Facebook" **alt="Git" width="30" height="30"/>  
     </a>
-  <a href="https://stackoverflow.com/users/11970472/rajib-bin-alam" target="__blank">
+  <a href="https://stackoverflow.com/users/8029307/maksud-masum" target="__blank">
         <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" title="Stack Overflow" **alt="Stack Overflow" width="30" height="30"/>  
     </a>
   <a href="https://www.linkedin.com/in/maddevs" target="__blank">
