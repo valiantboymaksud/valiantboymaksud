@@ -95,8 +95,8 @@ Professional Experience:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Database Performance with MySQL EXPLAIN: A Comprehensive Guide](https://dev.to/itszed0/test-post-490g](https://kodersolution.com/post/understanding-database-performance-with-mysql-explain-a-comprehensive-guide-66))
-- [Detecting Commas in a String Using PHP: A How-To Guide](https://kodersolution.com/post/detecting-commas-in-a-string-using-php-a-how-to-guide-68))
+- [Understanding Database Performance with MySQL EXPLAIN: A Comprehensive Guide](https://kodersolution.com/post/understanding-database-performance-with-mysql-explain-a-comprehensive-guide-66)
+- [Detecting Commas in a String Using PHP: A How-To Guide](https://kodersolution.com/post/detecting-commas-in-a-string-using-php-a-how-to-guide-68)
 <!-- BLOG-POST-LIST:END -->
 
 
