@@ -16,7 +16,7 @@
    </div>
 </div>
 
-### 👋 Hi, I'm Maksudur Rahman<hr/>
+### 👋 Hi, I'm Maksudur Rahman<br>
 #### Software Engineer PHP, Laravel, Vuejs <hr/>
 
 Technical Skills:
