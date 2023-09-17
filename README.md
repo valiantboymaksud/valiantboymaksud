@@ -81,7 +81,7 @@ Professional Experience:
 </div>
 
 ### Other / Activities / Hobby:
- 💻 Problem Solving, ⚽ Cricket, 🏸 Badminton, 🏊‍♂️ Swimming, 🚶‍♂️ Walking, ✈️ Travelling
+ 💻 Problem Solving, ⚽ Cricket, 🏸 Badminton, 🚶‍♂️ Walking, ✈️ Travelling
 
 ### :fire: My Stats :
 
@@ -95,7 +95,8 @@ Professional Experience:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Understanding Database Performance with MySQL EXPLAIN: A Comprehensive Guide](https://dev.to/itszed0/test-post-490g](https://kodersolution.com/post/understanding-database-performance-with-mysql-explain-a-comprehensive-guide-66)
+- [Detecting Commas in a String Using PHP: A How-To Guide](https://kodersolution.com/post/detecting-commas-in-a-string-using-php-a-how-to-guide-68))
 <!-- BLOG-POST-LIST:END -->
 
 
