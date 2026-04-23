@@ -1,9 +1,8 @@
-name: Update GitHub Profile README
+name: Update Blog Posts
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 0 1,11,21 * *"
   workflow_dispatch:
 
 permissions:
@@ -14,20 +13,60 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Update Latest Blog Posts from Sitemap
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://kodersolution.com/sitemap.xml"
-          max_post_count: 5
-          readme_path: "./README.md"
-          template: "- [$title]($url)"
-          comment_tag_name: "BLOG-POST-LIST"
-          disable_sort: false
-          commit_message: "Updated latest blog posts"
-          item_exec: |
-            if (/\/post\//.test(item.link)) {
-              return item;
-            }
+          python-version: "3.x"
+
+      - name: Install Requests
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Generate Blog List
+        run: |
+          python <<EOF
+          import requests
+          import re
+          from bs4 import BeautifulSoup
+
+          sitemap_url = "https://kodersolution.com/sitemap.xml"
+          readme_file = "README.md"
+
+          xml = requests.get(sitemap_url).text
+          soup = BeautifulSoup(xml, "xml")
+
+          urls = []
+          for loc in soup.find_all("loc"):
+              link = loc.text.strip()
+              if "/post/" in link:
+                  urls.append(link)
+
+          urls = urls[:5]
+
+          posts = []
+          for url in urls:
+              slug = url.rstrip("/").split("/")[-1]
+              title = slug.replace("-", " ").title()
+              posts.append(f"- [{title}]({url})")
+
+          with open(readme_file, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r"<!-- BLOG-POST-LIST:START -->(.*?)<!-- BLOG-POST-LIST:END -->"
+          replacement = "<!-- BLOG-POST-LIST:START -->\n" + "\n".join(posts) + "\n<!-- BLOG-POST-LIST:END -->"
+
+          content = re.sub(pattern, replacement, content, flags=re.S)
+
+          with open(readme_file, "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated blog posts"
+          git push
