@@ -1,0 +1,33 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Latest Blog Posts from Sitemap
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://kodersolution.com/sitemap.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          template: "- [$title]($url)"
+          comment_tag_name: "BLOG-POST-LIST"
+          disable_sort: false
+          commit_message: "Updated latest blog posts"
+          item_exec: |
+            if (/\/post\//.test(item.link)) {
+              return item;
+            }
