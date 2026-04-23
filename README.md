@@ -11,10 +11,28 @@ I build secure payment systems, enterprise web platforms, cloud infrastructure, 
 
 <p>
 <a href="https://maksudur.dev" target="_blank">🌐 Portfolio</a> •
-<a href="https://kodersolution.com" target="_blank">📝 Blog</a> •
-<a href="https://www.linkedin.com/in/maddevs/" target="_blank">LinkedIn</a> •
-<a href="https://www.fiverr.com/maddevs" target="_blank">Fiverr</a> •
-<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5" target="_blank">Upwork</a>
+<a href="https://kodersolution.com" target="_blank">📝 Blog</a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/maddevs/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Valiant_Maksud" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/in/imrba" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/valiantboymaksud" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.fiverr.com/maddevs" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=valiantboymaksud&style=for-the-badge&color=brightgreen"/>
@@ -26,18 +44,17 @@ I build secure payment systems, enterprise web platforms, cloud infrastructure, 
 ## 🚀 About Me
 
 - 💼 Experienced Software Engineer with strong backend architecture expertise  
-- 💳 Specialized in **Digital Payment Solutions**, transaction systems, wallet flows, merchant platforms  
-- ⚡ Focused on scalable systems, automation, performance optimization, and clean code  
-- 🌍 Worked with startups, businesses, and enterprise-grade products  
-- ☁️ Experienced in cloud deployment, Linux servers, CI/CD pipelines, and DevOps workflows  
-- 📈 Available for freelance and contract projects  
+- 💳 Specialized in **Digital Payment Solutions**, wallet systems, merchant platforms  
+- ⚡ Focused on scalable systems, automation, clean code, and performance  
+- ☁️ Experienced in AWS, Linux servers, CI/CD, DevOps workflows  
+- 📈 Available for freelance and contract opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-`PHP` `Laravel` `Node.js` `REST API` `Microservices`
+`PHP` `Laravel` `Node.js` `REST API`
 
 ### Frontend
 `React.js` `Next.js` `Vue.js` `JavaScript` `TypeScript`
@@ -45,37 +62,21 @@ I build secure payment systems, enterprise web platforms, cloud infrastructure, 
 ### Database
 `MySQL` `PostgreSQL` `Redis`
 
-### DevOps / Infrastructure
+### DevOps
 `AWS` `EC2` `Terraform` `Jenkins` `Docker` `Nginx` `Linux`
 
-### Payment & Business Systems
-`Payment Gateway Integration` `Merchant Systems` `Wallet Solutions` `Fraud Prevention`
-
 ---
 
-## 💡 What I Build
+## 💡 Core Expertise
 
-- FinTech Platforms  
-- Payment Gateways  
-- Merchant Dashboards  
-- E-commerce Systems  
-- SaaS Products  
-- Admin Panels  
-- API Ecosystems  
-- High Traffic Web Applications  
-
----
-
-## 🌐 Professional Services
-
-- Custom Software Development  
-- Laravel & PHP Backend Engineering  
-- React / Next.js Frontend Solutions  
-- Payment Integration & Settlement Systems  
-- Server Deployment & Optimization  
-- Database Query Tuning  
-- Product MVP Development  
-- Long-term Technical Partnership  
+- Payment Gateway Integration  
+- Wallet & Transaction Systems  
+- E-commerce Platforms  
+- SaaS Applications  
+- API Development  
+- Server Deployment  
+- Query Optimization  
+- MVP Development  
 
 ---
 
@@ -98,23 +99,8 @@ I build secure payment systems, enterprise web platforms, cloud infrastructure, 
 
 ---
 
-## 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/maddevs/">LinkedIn</a> •
-<a href="https://twitter.com/Valiant_Maksud">Twitter</a> •
-<a href="https://www.facebook.com/in/imrba">Facebook</a> •
-<a href="https://www.instagram.com/valiantboymaksud">Instagram</a>
-
----
-
 ## ⚡ Beyond Code
 
-💻 Problem Solving • ⚽ Cricket • 🏸 Badminton • 🚶 Walking • ✈️ Travelling
-
----
-
-## 📬 Open For
-
-Freelance Projects • Remote Jobs • Startup Collaboration • Technical Consulting
+💻 Coding • ⚽ Cricket • 🏸 Badminton • 🚶 Walking • ✈️ Travelling
 
 ---
