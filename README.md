@@ -146,7 +146,7 @@ I enjoy building real products that solve business problems, improve workflow, a
 
 ---
 
-# ✍️ Latest Blog Posts (Auto Update)
+# ✍️ My Contribution
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
