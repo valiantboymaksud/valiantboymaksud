@@ -1,37 +1,39 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
 
 # 👋 Hi, I'm Maksudur Rahman
 
-### Senior Software Engineer | FinTech & Scalable Web Solutions
+### Senior Software Engineer | Laravel Expert | FinTech & Business Software Developer
+
+I build secure payment systems, scalable business software, modern APIs, and high-performance web applications.
+
+[🌐 Portfolio](https://maksudur.dev) • [📝 Blog](https://kodersolution.com)
 
 <p>
-I build secure payment systems, enterprise web platforms, cloud infrastructure, and high-performance applications.
+<a href="https://www.linkedin.com/in/maddevs/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/maksudur.dev">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Valiant_Maksud">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.fiverr.com/maddevs">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
 </p>
 
 <p>
-<a href="https://maksudur.dev" target="_blank">🌐 Portfolio</a> •
-<a href="https://kodersolution.com" target="_blank">📝 Blog</a>
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/maddevs/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:valiantmaksud@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/Valiant_Maksud" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/in/imrba" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/valiantboymaksud" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.fiverr.com/maddevs" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+<a href="https://wa.me/8801840829429">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
@@ -41,65 +43,135 @@ I build secure payment systems, enterprise web platforms, cloud infrastructure, 
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💼 Experienced Software Engineer with strong backend architecture expertise  
-- 💳 Specialized in **Digital Payment Solutions**, wallet systems, merchant platforms  
-- ⚡ Focused on scalable systems, automation, clean code, and performance  
-- ☁️ Experienced in AWS, Linux servers, CI/CD, DevOps workflows  
-- 📈 Available for freelance and contract opportunities  
+I'm a Software Engineer focused on backend systems, digital payment solutions, and scalable business software.
+
+I enjoy building real products that solve business problems, improve workflow, and handle high traffic efficiently.
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Technical Skills
 
-### Backend
-`PHP` `Laravel` `Node.js` `REST API`
+## Backend
+- PHP
+- Laravel
+- REST API
+- Node.js
 
-### Frontend
-`React.js` `Next.js` `Vue.js` `JavaScript` `TypeScript`
+## Frontend
+- React.js
+- Next.js
+- Vue.js
+- JavaScript
+- TypeScript
 
-### Database
-`MySQL` `PostgreSQL` `Redis`
+## Database
+- MySQL
+- PostgreSQL
+- Redis
 
-### DevOps
-`AWS` `EC2` `Terraform` `Jenkins` `Docker` `Nginx` `Linux`
+## DevOps / Cloud
+- AWS
+- EC2
+- Linux Server
+- Docker
+- Jenkins
+- Terraform
+- Nginx
+
+## Specialized Experience
+- Payment Gateway Integration
+- Wallet Systems
+- Merchant Platforms
+- ERP Solutions
+- Performance Optimization
 
 ---
 
-## 💡 Core Expertise
+# 🏗️ Projects Built
 
-- Payment Gateway Integration  
-- Wallet & Transaction Systems  
-- E-commerce Platforms  
-- SaaS Applications  
-- API Development  
-- Server Deployment  
-- Query Optimization  
-- MVP Development  
+## 💳 FinTech / Payment Systems
+- Wallet balance systems
+- Deposit / withdraw platforms
+- Merchant settlements
+- Transaction monitoring
+- Secure payment flows
+
+## 🏫 School Management Software
+- Student admission
+- Attendance system
+- Result management
+- Fees collection
+- Parent & teacher panel
+
+## 🛒 POS / Inventory Software
+- Sales & invoices
+- Barcode system
+- Inventory tracking
+- Purchase reports
+- Multi-user roles
+
+## 🌐 Web Platforms
+- SaaS products
+- Admin dashboards
+- E-commerce systems
+- Marketplace platforms
+- Booking systems
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=valiantboymaksud&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=valiantboymaksud&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantboymaksud&layout=compact&theme=vision-friendly-dark)
+- Scalable architecture
+- Secure coding
+- Clean codebase
+- Query optimization
+- Automation systems
+- Business growth products
 
 ---
 
-## ✍️ Latest Blog Posts
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=valiantboymaksud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantboymaksud&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantboymaksud&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# ✍️ Latest Blog Posts (Auto Update)
 
 <!-- BLOG-POST-LIST:START -->
-- Understanding Database Performance with MySQL EXPLAIN  
-- Detecting Commas in a String Using PHP  
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## ⚡ Beyond Code
+# 📬 Contact Me
+
+- 📧 Email: valiantmaksud@gmail.com
+- 📱 WhatsApp: +8801840829429
+- 🌐 Website: https://maksudur.dev
+
+---
+
+# 🤝 Available For
+
+- Freelance Projects
+- Remote Opportunities
+- Long-term Contracts
+- Startup Collaboration
+- Technical Consulting
+
+---
+
+# ⚡ Personal Interests
 
 💻 Coding • ⚽ Cricket • 🏸 Badminton • 🚶 Walking • ✈️ Travelling
 
