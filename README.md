@@ -1,183 +1,171 @@
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,63&height=220&section=header&text=MAKSUDUR%20RAHMAN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20FinTech%20Architect%20|%20Laravel%20Expert&descAlignY=58&descSize=18" />
+
+<!-- TYPING EFFECT -->
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=680&lines=🚀+Architecting+Scalable+FinTech+Solutions;🔥+Laravel+Framework+Expert;💳+Secure+Payment+Gateway+Integration;📈+Transforming+Business+Logic+into+Clean+Code" alt="Typing SVG" />
+</div>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
+<!-- SOCIAL BADGES -->
+<div align="center">
+<a href="https://maksudur.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>&nbsp;
+<a href="https://kodersolution.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white" /></a>&nbsp;
+<a href="https://wa.me/8801840829429"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;<br/>
+<a href="https://fiverr.com/maddevs"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" /></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>&nbsp;
+<a href="mailto:valiantmaksud@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<br/>
 
-# 👋 Hi, I'm Maksudur Rahman
-
-### Senior Software Engineer | Laravel Expert | FinTech & Business Software Developer
-
-I build secure payment systems, scalable business software, modern APIs, and high-performance web applications.
-
-[🌐 Portfolio](https://maksudur.dev) • [📝 Blog](https://kodersolution.com)
-
-<p>
-<a href="https://www.linkedin.com/in/maddevs/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/maksudur.dev">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://twitter.com/Valiant_Maksud">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.fiverr.com/maddevs">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-<a href="https://www.upwork.com/freelancers/~01eafae6ec273f0ef5">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-</p>
-
-<p>
-<a href="mailto:valiantmaksud@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/8801840829429">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=valiantboymaksud&style=for-the-badge&color=brightgreen"/>
-
+<img src="https://komarev.com/ghpvc/?username=valiantboymaksud&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />&nbsp;
+<img src="https://img.shields.io/github/followers/valiantboymaksud?style=flat-square&color=orange&label=Followers" />
 </div>
 
 ---
 
-# 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a Software Engineer focused on backend systems, digital payment solutions, and scalable business software.
+I'm a **Software Engineer** focused on backend systems, digital payment solutions, and scalable business software. I enjoy building real products that solve business problems, improve workflow, and handle high traffic efficiently.
 
-I enjoy building real products that solve business problems, improve workflow, and handle high traffic efficiently.
-
----
-
-# 💼 Technical Skills
-
-## Backend
-- PHP
-- Laravel
-- REST API
-- Node.js
-
-## Frontend
-- React.js
-- Next.js
-- Vue.js
-- JavaScript
-- TypeScript
-
-## Database
-- MySQL
-- PostgreSQL
-- Redis
-
-## DevOps / Cloud
-- AWS
-- EC2
-- Linux Server
-- Docker
-- Jenkins
-- Terraform
-- Nginx
-
-## Specialized Experience
-- Payment Gateway Integration
-- Wallet Systems
-- Merchant Platforms
-- ERP Solutions
-- Performance Optimization
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="100%" style="border: none;">
+  <b>⚡ Clean Code & SOLID:</b> Writing maintainable, production-ready code.<br/>
+  <b>🌐 Scalable Architecture:</b> Designing multi-tenant SaaS & microservices.<br/>
+  <b>💳 FinTech Expertise:</b> Deep experience in payment gateways & ledgers.<br/>
+  <b>🚀 Performance Tuning:</b> Optimizing SQL queries and Redis caching.<br/>
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="100%" style="border: none;">
+  <b>🗣️ Languages:</b> English, Bengali &nbsp; | &nbsp; <b>🌐 Location:</b> Dhaka, Bangladesh
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏗️ Projects Built
+## 🛠️ The Tech Arsenal
 
-## 💳 FinTech / Payment Systems
-- Wallet balance systems
-- Deposit / withdraw platforms
-- Merchant settlements
-- Transaction monitoring
-- Secure payment flows
+**Backend**
+`PHP` • `Laravel` • `Node.js` • `Python` • `REST API`
 
-## 🏫 School Management Software
-- Student admission
-- Attendance system
-- Result management
-- Fees collection
-- Parent & teacher panel
+**Frontend**
+`React` • `Next.js` • `TypeScript` • `Vue.js` • `JavaScript`
 
-## 🛒 POS / Inventory Software
-- Sales & invoices
-- Barcode system
-- Inventory tracking
-- Purchase reports
-- Multi-user roles
+**Database**
+`MySQL` • `PostgreSQL` • `MongoDB` • `Redis`
 
-## 🌐 Web Platforms
-- SaaS products
-- Admin dashboards
-- E-commerce systems
-- Marketplace platforms
-- Booking systems
+**DevOps & Cloud**
+`Docker` • `AWS (EC2)` • `DigitalOcean` • `Linux` • `Nginx` • `CI/CD`
+
+**Version Control & Tools**
+`Git` • `Github` • `Postman` • `Jira` • `Trello` • `SonarQube`
 
 ---
 
-# 📈 Current Focus
+## 🧩 Open Source Laravel Packages
 
-- Scalable architecture
-- Secure coding
-- Clean codebase
-- Query optimization
-- Automation systems
-- Business growth products
+> I actively contribute to the ecosystem to improve developer experience.
+
+📦 **[Laravel LogPilot](https://github.com/valiantboymaksud/laravel-logpilot)** — Advanced logging & request tracing for Laravel. Easily manage logs, channels, and views.
+
+📦 **[Laravel API Response](https://github.com/valiantboymaksud/laravel-api-response)** — Standardized, consistent JSON outputs for enterprise-grade APIs.
 
 ---
 
-# 📊 GitHub Analytics
+## 🏗️ Featured Projects
+
+#### 💳 Sipay FinTech (Payment Gateway)
+Advanced payment gateway solutions tailored for the Turkish fintech ecosystem. Integrated with Intertech to expand bank onboarding and wallet experiences.
+
+`Laravel` `Redis` `MySQL` `FinTech`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-22c55e?style=flat-square)](https://sipay.com.tr)
+[![Private Repo](https://img.shields.io/badge/🔒_Private_Repo-6b7280?style=flat-square)](#)
+
+---
+
+#### 🛒 School Management System
+A cloud-based POS and inventory management system for retail businesses, featuring sub-second inventory sync and real-time reporting.
+
+`Laravel` `MySQL` `Vue.js` `POS`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-22c55e?style=flat-square)](https://www.abisbd.org)
+[![Private Repo](https://img.shields.io/badge/🔒_Private_Repo-6b7280?style=flat-square)](#)
+
+---
+
+#### 🤝 Peaklancer
+A robust freelance services marketplace platform facilitating seamless collaboration between clients and service providers.
+
+`Laravel` `React` `PostgreSQL` `Marketplace`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-22c55e?style=flat-square)](https://www.peaklancer.com)
+[![Private Repo](https://img.shields.io/badge/🔒_Private_Repo-6b7280?style=flat-square)](#)
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=valiantboymaksud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantboymaksud&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantboymaksud&theme=tokyonight&hide_border=true" />
-
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=valiantboymaksud&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
 
-# ✍️ My Contribution
+## 📊 GitHub Analytics
 
-<!-- BLOG-POST-LIST:START -->
-- [Laravel The Stream Or File Storagelogslaravellog Could Not Be Opened In Append Mode Failed To Open Stream Permission Denied](https://kodersolution.com/post/laravel-the-stream-or-file-storagelogslaravellog-could-not-be-opened-in-append-mode-failed-to-open-stream-permission-denied)
-- [Laravel Throws The Bootstrapcache Directory Must Be Present And Writable Error After Update ](https://kodersolution.com/post/laravel-throws-the-bootstrapcache-directory-must-be-present-and-writable-error-after-update-)
-- [How To Protect Pdf Generated From Laravel Mpdf](https://kodersolution.com/post/how-to-protect-pdf-generated-from-laravel-mpdf)
-- [How To Import Mysql Database Using Command In Linx ](https://kodersolution.com/post/how-to-import-mysql-database-using-command-in-linx-)
-- [Jquery Get Selected Option Value From Dropdown ](https://kodersolution.com/post/jquery-get-selected-option-value-from-dropdown-)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=valiantboymaksud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
 
----
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantboymaksud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
 
-# 📬 Contact Me
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=valiantboymaksud&theme=radical&hide_border=true&background=0D1117" />
 
-- 📧 Email: valiantmaksud@gmail.com
-- 📱 WhatsApp: +8801840829429
-- 🌐 Website: https://maksudur.dev
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valiantboymaksud&theme=redical&hide_border=true&area=true&bg_color=0D1117" />
+</div>
 
 ---
 
-# 🤝 Available For
+## 📝 Latest Blog Articles
 
-- Freelance Projects
-- Remote Opportunities
-- Long-term Contracts
-- Startup Collaboration
-- Technical Consulting
+📖 [Laravel permission denied log file fix](https://kodersolution.com/post/laravel-the-stream-or-file-storagelogslaravellog-could-not-be-opened-in-append-mode-failed-to-open-stream-permission-denied)
+
+📖 [Bootstrap cache writable error solution](https://kodersolution.com/post/laravel-throws-the-bootstrapcache-directory-must-be-present-and-writable-error-after-update-)
+
+📖 [Protect PDF generated from Laravel mPDF](https://kodersolution.com/post/how-to-protect-pdf-generated-from-laravel-mpdf)
+
+📖 [Import MySQL database using command line](https://kodersolution.com/post/how-to-import-mysql-database-using-command-in-linx-)
+
+📖 [jQuery selected option value guide](https://kodersolution.com/post/jquery-get-selected-option-value-from-dropdown-)
+
+**[🔗 Read all articles on my blog →](https://kodersolution.com)**
 
 ---
 
-# ⚡ Personal Interests
+## 🐍 Contribution Snake
 
-💻 Coding • ⚽ Cricket • 🏸 Badminton • 🚶 Walking • ✈️ Travelling
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valiantboymaksud/valiantboymaksud/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valiantboymaksud/valiantboymaksud/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/valiantboymaksud/valiantboymaksud/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
 
 ---
+
+## 💼 Open to New Opportunities
+
+💼 Remote Full-time Roles &nbsp;|&nbsp; 🧑‍💻 Senior Laravel Positions &nbsp;|&nbsp; 🚀 Freelance Projects &nbsp;|&nbsp; 🌟 Startup Collaboration &nbsp;|&nbsp; 📈 Backend Consulting
+
+<div align="center">
+
+*"Build systems that scale. Write code that lasts. Solve problems that matter."*
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,63&height=100&section=footer" />
